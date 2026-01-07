@@ -69,7 +69,7 @@ The analysis focuses on **Apple Inc. (AAPL)** stock and compares its performance
 ---
 
 ## Author
-**Yashka Johari**  
+**Yashka**  
 MCA Student | Aspiring Data Analyst  
 
 *This project is created for learning and portfolio demonstration purposes.*
