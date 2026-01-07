@@ -57,7 +57,8 @@ The analysis focuses on **Apple Inc. (AAPL)** stock and compares its performance
 - Estimated **Apple stock Beta** relative to the S&P 500  
 - Clear comparison of Apple’s performance against the market  
 - Practical demonstration of financial data analysis concepts  
-
+📊 **Sample Visualization:**  
+![Apple vs S&P 500 Returns](apple_vs_sp500.png)
 ---
 
 ## Project Structure
